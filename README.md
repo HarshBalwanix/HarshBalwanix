@@ -1,3 +1,4 @@
+![logo](https://github.com/HarshBalwanix/HarshBalwanix/blob/master/Harsh%20Balwani.png)
 <h1 align="center">Hi 👋, I'm Harsh Balwani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
